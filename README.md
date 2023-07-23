@@ -1,7 +1,5 @@
 <h2 align="center">System.out.println("¡Hola mundo!");</h2>
 
-![snake gif](https://github.com/Aserturik/Aserturik/blob/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aserturik/Aserturik/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aserturik/Aserturik/output/github-contribution-grid-snake.svg">
