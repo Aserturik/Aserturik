@@ -7,7 +7,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/Aserturik">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aserturik&langs_count=16&layout=compact&theme=dark" alt="bouaskaoun">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aserturik&langs_count=16&layout=compact&theme=dark">
 </a>
 <!--
 <br/>	
