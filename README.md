@@ -49,8 +49,6 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
 | **sadScript — Lenguaje de programación y documentación**<br/>`TypeScript` `Astro` `Starlight` `MDX`<br/>[Código](https://github.com/Aserturik/sadScript) · [Documentación](https://github.com/Aserturik/sadScript-docs) · [Portafolio](https://aserturik.github.io) | Lenguaje experimental con analizador léxico y sintáctico propio. Énfasis en mensajes de error claros y documentación navegable. |
 | **Simulador de planificación de CPU**<br/>`Next.js` `TypeScript` `Tailwind CSS` `Zod` `React Hook Form`<br/>[Código](https://github.com/Aserturik/AlgorithmSimulator) · [Demo](https://scheduling-algorithm-simulator.vercel.app/) | Simulador de algoritmos SRTF, Round Robin y MLFQ con diagrama de Gantt en tiempo real y formularios validados. |
 
-> **Nota:** el repositorio `Air-Trafic-Control` contiene un error tipográfico en el nombre. Se recomienda renombrarlo a `Air-Traffic-Control` con `gh repo rename` antes de destacarlo en un perfil orientado a empleo.
-
 ---
 
 ## Formación
@@ -63,11 +61,31 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
 
 <p align="center">
   <a href="https://github.com/Aserturik">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aserturik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=facc15&text_color=f8fafc&icon_color=38bdf8&border_radius=12" alt="Estadísticas de GitHub" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aserturik&theme=tokyonight" alt="Estadísticas de GitHub" />
   </a>
   <a href="https://github.com/Aserturik">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aserturik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=facc15&text_color=f8fafc&border_radius=12" alt="Lenguajes principales" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aserturik&theme=tokyonight" alt="Lenguaje más usado" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aserturik">
+    <img width="48%" src="https://streak-stats.demolab.com?user=Aserturik&theme=tokyonight&hide_border=true&background=0b1220&ring=facc15&fire=facc15&currStreakLabel=f8fafc" alt="Racha de contribuciones" />
+  </a>
+  <a href="https://github.com/Aserturik">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aserturik&theme=tokyonight" alt="Repositorios por lenguaje" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aserturik">
+    <img width="100%" src="https://ghchart.rshah.org/facc15/Aserturik" alt="Gráfico de contribuciones" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Aserturik?style=flat-square&logo=github&logoColor=white&labelColor=0b1220&color=38bdf8" alt="Seguidores en GitHub" />
+  <img src="https://img.shields.io/github/stars/Aserturik?style=flat-square&logo=github&logoColor=white&labelColor=0b1220&color=facc15" alt="Stars en GitHub" />
 </p>
 
 ---
@@ -78,10 +96,9 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
 - **LinkedIn:** [linkedin.com/in/aserturik](https://linkedin.com/in/aserturik)
 - **Portafolio:** [aserturik.github.io](https://aserturik.github.io)
 - **GitHub:** [github.com/Aserturik](https://github.com/Aserturik)
-- **WhatsApp:** [@alfaq7](https://wa.me/alfaq7)
 - **Ubicación:** Tunja, Boyacá, Colombia — UTC-5. Disponibilidad remota.
 
-> Para propuestas de empleo, el contacto por email es la vía preferente. WhatsApp disponible para coordinar entrevistas.
+> Para propuestas de empleo, el contacto por email es la vía preferente.
 
 <p align="center">
   <sub>Hecho en Tunja, Colombia</sub>
