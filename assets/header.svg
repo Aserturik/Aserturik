@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="170" viewBox="0 0 880 170" role="img" aria-label="Alex Hernández — Ingeniería de Sistemas y Computación, UPTC Tunja">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220" />
+      <stop offset="55%" stop-color="#0d1b2a" />
+      <stop offset="100%" stop-color="#0b1220" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0.10" />
+      <stop offset="50%" stop-color="#39d353" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0.10" />
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0" />
+      <stop offset="50%" stop-color="#39d353" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0" />
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="880" height="170" fill="url(#bg)" />
+  <rect width="880" height="170" fill="url(#halo)" />
+  <rect width="880" height="3" y="167" fill="url(#line)" />
+
+  <path d="M0 170 L0 138 Q 220 108 440 132 T 880 118 L880 170 Z" fill="url(#glow)" />
+  <path d="M0 170 L0 152 Q 220 132 440 150 T 880 142 L880 170 Z" fill="#0e4429" opacity="0.55" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="440" y="76" font-size="38" font-weight="700" fill="#39d353" letter-spacing="0.5">Alex Hernández</text>
+    <text x="440" y="108" font-size="17" font-weight="500" fill="#9fb0c4">Ingeniería de Sistemas y Computación · UPTC Tunja</text>
+    <text x="440" y="136" font-size="13" font-weight="500" fill="#5f7d95" letter-spacing="2.5">FULL-STACK · SAAS · ECOMMERCE</text>
+  </g>
+</svg>
