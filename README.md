@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://aserturik.dev"><img src="https://img.shields.io/badge/Portafolio-aserturik.dev-0b1220?style=for-the-badge&logo=astro&logoColor=39d353" alt="Portafolio aserturik.dev" /></a>
+  <a href="https://wa.me/aserturik"><img src="https://img.shields.io/badge/WhatsApp-%40aserturik-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp @aserturik" /></a>
   <a href="https://linkedin.com/in/aserturik"><img src="https://img.shields.io/badge/LinkedIn-aserturik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:alex@aserturik.dev"><img src="https://img.shields.io/badge/Email-alex%40aserturik.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email alex@aserturik.dev" /></a>
 </p>
@@ -130,6 +131,7 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
 ## Contacto
 
 - **Email:** [alex@aserturik.dev](mailto:alex@aserturik.dev)
+- **WhatsApp:** [@aserturik](https://wa.me/aserturik)
 - **LinkedIn:** [linkedin.com/in/aserturik](https://linkedin.com/in/aserturik)
 - **Portafolio:** [aserturik.dev](https://aserturik.dev)
 - **GitHub:** [github.com/Aserturik](https://github.com/Aserturik)
