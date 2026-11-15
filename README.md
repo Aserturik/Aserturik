@@ -1,16 +1,19 @@
+<h1 align="center">Alex Hernández</h1>
+
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Alex Hernández — Ingeniería de Sistemas y Computación, UPTC Tunja" />
+  <b>Ingeniería de Sistemas y Computación · UPTC Tunja</b><br/>
+  <sub>Full-Stack · SaaS · Ecommerce</sub>
 </p>
 
 <p align="center">
-  <a href="https://aserturik.github.io"><img src="https://img.shields.io/badge/Portafolio-aserturik.github.io-0b1220?style=for-the-badge&logo=astro&logoColor=39d353" alt="Portafolio" /></a>
+  <a href="https://aserturik.dev"><img src="https://img.shields.io/badge/Portafolio-aserturik.dev-0b1220?style=for-the-badge&logo=astro&logoColor=39d353" alt="Portafolio aserturik.dev" /></a>
   <a href="https://linkedin.com/in/aserturik"><img src="https://img.shields.io/badge/LinkedIn-aserturik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:adhbach23@gmail.com"><img src="https://img.shields.io/badge/Email-contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:alex@aserturik.dev"><img src="https://img.shields.io/badge/Email-alex%40aserturik.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email alex@aserturik.dev" /></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Enfoque-SaaS_%E2%80%A2_Ecommerce_%E2%80%A2_Full--Stack-0e4429?style=flat-square&labelColor=0b1220" alt="Enfoque: SaaS, Ecommerce, Full-Stack" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Tunja%2C_Colombia_%28UTC--5%29-0e4429?style=flat-square&labelColor=0b1220" alt="Ubicación: Tunja, Colombia (UTC-5)" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Tunja%2C_Colombia-0e4429?style=flat-square&labelColor=0b1220" alt="Ubicación: Tunja, Colombia" />
   <img src="https://img.shields.io/badge/Disponibilidad-Abierto_a_ofertas-39d353?style=flat-square&labelColor=0b1220" alt="Disponibilidad: abierto a ofertas" />
 </p>
 
@@ -25,7 +28,7 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
 - Experiencia en producción con **React / Next.js** en frontend y **FastAPI / Node.js, Medusa, PostgreSQL** en backend.
 - Despliegues reales con **Docker, Dokploy, Traefik y Cloudflare R2** en VPS.
 - Práctica de ingeniería: código modular, validación de datos, control de versiones y documentación.
-- Disponibilidad para trabajo **remoto** desde Tunja, Colombia (UTC-5).
+- Disponibilidad para trabajo **remoto** desde Tunja, Colombia.
 
 ---
 
@@ -72,7 +75,7 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
       <sub>Sistema de gestión (SaaS)</sub>
       <p>Aplicación de gestión empresarial con roles (<i>Super Admin / Manager / Supervisor / Employee</i>), autenticación y arquitectura modular por dominios. Repositorio privado por acuerdo con el cliente; demostración disponible a solicitud.</p>
       <code>React 19</code> <code>Vite</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Firebase</code> <code>Bun</code>
-      <p><a href="https://aserturik.github.io"><b>Ver en el portafolio →</b></a></p>
+      <p><a href="https://aserturik.dev"><b>Ver en el portafolio →</b></a></p>
     </td>
   </tr>
   <tr>
@@ -126,14 +129,10 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
 
 ## Contacto
 
-- **Email:** [adhbach23@gmail.com](mailto:adhbach23@gmail.com)
+- **Email:** [alex@aserturik.dev](mailto:alex@aserturik.dev)
 - **LinkedIn:** [linkedin.com/in/aserturik](https://linkedin.com/in/aserturik)
-- **Portafolio:** [aserturik.github.io](https://aserturik.github.io)
+- **Portafolio:** [aserturik.dev](https://aserturik.dev)
 - **GitHub:** [github.com/Aserturik](https://github.com/Aserturik)
-- **Ubicación:** Tunja, Boyacá, Colombia — UTC-5. Disponibilidad remota.
+- **Ubicación:** Tunja, Colombia. Disponibilidad remota.
 
 > Para propuestas de empleo, el contacto por email es la vía preferente.
-
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Hecho en Tunja, Colombia" />
-</p>
