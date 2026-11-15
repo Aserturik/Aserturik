@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Enfoque-SaaS_%E2%80%A2_Ecommerce_%E2%80%A2_Full--Stack-38bdf8?style=flat-square&logo=rocket&logoColor=white" alt="Enfoque" />
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Tunja%2C_Colombia_%28UTC--5%29-0b1220?style=flat-square&logo=googlemaps&logoColor=39d353" alt="Ubicación" />
-  <img src="https://img.shields.io/badge/Disponibilidad-Abierto_a_ofertas-39d353?style=flat-square&logo=handshake&logoColor=0b1220" alt="Disponibilidad" />
+  <img src="https://img.shields.io/badge/Enfoque-SaaS_%E2%80%A2_Ecommerce_%E2%80%A2_Full--Stack-0e4429?style=flat-square&labelColor=0b1220" alt="Enfoque: SaaS, Ecommerce, Full-Stack" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Tunja%2C_Colombia_%28UTC--5%29-0e4429?style=flat-square&labelColor=0b1220" alt="Ubicación: Tunja, Colombia (UTC-5)" />
+  <img src="https://img.shields.io/badge/Disponibilidad-Abierto_a_ofertas-39d353?style=flat-square&labelColor=0b1220" alt="Disponibilidad: abierto a ofertas" />
 </p>
 
 > **Ingeniero de Sistemas y Computación (UPTC, Tunja) — Desarrollo Full-Stack.** Construyo aplicaciones SaaS y de comercio electrónico en producción, con énfasis en arquitectura mantenible, despliegue continuo y experiencia de usuario.
@@ -49,10 +49,7 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
     </td>
     <td width="50%" valign="top">
       <sub><b>PRÁCTICAS DE INGENIERÍA</b></sub><br/>
-      <img src="https://img.shields.io/badge/Arquitectura_modular-0b1220?style=flat-square&logoColor=39d353" alt="Arquitectura modular" />
-      <img src="https://img.shields.io/badge/Validaci%C3%B3n_con_Zod-0b1220?style=flat-square&logo=zod&logoColor=39d353" alt="Validación con Zod" />
-      <img src="https://img.shields.io/badge/React_Hook_Form-0b1220?style=flat-square&logo=reacthookform&logoColor=39d353" alt="React Hook Form" />
-      <img src="https://img.shields.io/badge/Dise%C3%B1o_por_dominios-0b1220?style=flat-square&logoColor=39d353" alt="Diseño por dominios" />
+      <sub>Arquitectura modular · Validación con Zod · React Hook Form · Diseño por dominios · Testing</sub>
     </td>
   </tr>
 </table>
