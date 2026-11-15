@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b1220&height=140&section=header&text=Alex%20Hern%C3%A1ndez&fontSize=36&fontColor=39d353&animation=fadeIn&desc=Ingenier%C3%ADa%20de%20Sistemas%20y%20Computaci%C3%B3n%20%E2%80%A2%20UPTC%20Tunja&descAlignY=72&descAlign=50" width="100%" alt="Encabezado de perfil de Alex Hernández" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0b1220,0e4429&height=140&section=header&text=Alex%20Hern%C3%A1ndez&fontSize=36&fontColor=39d353&animation=fadeIn&desc=Ingenier%C3%ADa%20de%20Sistemas%20y%20Computaci%C3%B3n%20%E2%80%A2%20UPTC%20Tunja&descAlignY=72&descAlign=50" width="100%" alt="Encabezado de perfil de Alex Hernández" />
 
 <p align="center">
   <a href="https://aserturik.github.io"><img src="https://img.shields.io/badge/Portafolio-aserturik.github.io-0b1220?style=for-the-badge&logo=astro&logoColor=39d353" alt="Portafolio" /></a>
@@ -109,7 +109,13 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
 </table>
 
 <p align="center">
-  <a href="https://github.com/Aserturik"><img src="https://raw.githubusercontent.com/Aserturik/Aserturik/output/github-contribution-grid-snake-dark.svg" width="62%" alt="Gráfico de contribuciones animado" /></a>
+  <a href="https://github.com/Aserturik">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aserturik/Aserturik/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aserturik/Aserturik/output/github-contribution-grid-snake.svg" />
+      <img src="https://raw.githubusercontent.com/Aserturik/Aserturik/output/github-contribution-grid-snake-dark.svg" width="62%" alt="Gráfico de contribuciones animado" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -133,4 +139,4 @@ Soy **Alex Duvan Hernández Buitrago**, estudiante de último semestre de **Inge
   <sub>Hecho en Tunja, Colombia</sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b1220&height=90&section=footer&text=&fontColor=39d353" width="100%" alt="Pie de perfil" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e4429,0b1220&height=90&section=footer&text=&fontColor=39d353" width="100%" alt="Pie de perfil" />
